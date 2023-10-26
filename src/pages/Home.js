@@ -98,7 +98,7 @@ export default function Home() {
       <h4>Contact Information</h4>
       <p>Phone: 8168120799</p>
       <p>Email: anmol0212.be21@chitkara.edu.in</p>
-      <p>Address: Chitkara University</p>
+      <p>Address: Chitkara University, Rajpura</p>
       <div className="icons">
         <a href="#">
           <i className="bx bxl-instagram" />
