@@ -37,7 +37,7 @@ export default function Home() {
     <div className="property-content">
       <div className="row">
         <img src={image2} />
-        <h5>Chail Palace</h5>
+        <h5>The Khyber Resort, Gulmarg</h5>
         <p>The Palace Road, Chail, Himachal Pradesh</p>
         <p>6 Bed</p>
         
