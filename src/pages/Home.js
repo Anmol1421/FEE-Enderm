@@ -47,14 +47,14 @@ export default function Home() {
       <div className="row">
         <img src={image3}  />
         <h5>Wildflower Hall, Himachal Pradesh</h5>
-        <p>The Palace Road, Chail, Himachal Pradesh</p>
+        <p>The Wildflower Palace , Himachal Pradesh</p>
         <p>6 Bed</p>
         
       </div>
       <div className="row">
         <img src={image4}  />
         <h5>Nandadevi Estate, Binsar</h5>
-        <p>The Palace Road, Chail, Himachal Pradesh</p>
+        <p>The Nandadevi Estate Palace, Binsar</p>
         <p>6 Bed</p>
         
       </div>
