@@ -97,7 +97,7 @@ export default function Home() {
     <div className="contact-content">
       <h4>Contact Information</h4>
       <p>Phone: 8168120799</p>
-      <p>Email: info@reese.com</p>
+      <p>Email: anmol0212.be21@chitkara.edu.in</p>
       <p>Address: 123 Main St, City</p>
       <div className="icons">
         <a href="#">
