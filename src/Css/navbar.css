@@ -1,0 +1,59 @@
+header {
+    background-color: #121b25;
+    width: 100%;
+    height: 10%;
+    position: relative;
+    z-index: 100;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    padding: 30px 15%;
+    position: static;
+    
+}
+
+header .logo {
+    margin: 0px;
+    width: 200px;
+    height: 160px;
+}
+
+header .navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    background-color:#121b25;
+}
+
+ header .navbar li {
+    background-color:#121b25;
+    margin: 0 10px;
+} 
+
+.logo img {
+    height: 76%;
+    width: 90%;
+}
+
+.navbar {
+    display: block;
+    justify-content: center;
+    
+}
+
+.navbar a {
+    padding: 10px 30px;
+    font-size: var(--p-font);
+    font-weight: 400;
+    background-color:#121b25;
+    color: white;
+    transition: all .40s ease;
+}
+
+.navbar  a:hover {
+    
+    color: var(--text-color);
+
+
+}
