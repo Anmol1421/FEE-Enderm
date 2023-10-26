@@ -96,7 +96,7 @@ export default function Home() {
     </div>
     <div className="contact-content">
       <h4>Contact Information</h4>
-      <p>Phone: +123-456-7890</p>
+      <p>Phone: 8168120799</p>
       <p>Email: info@reese.com</p>
       <p>Address: 123 Main St, City</p>
       <div className="icons">
