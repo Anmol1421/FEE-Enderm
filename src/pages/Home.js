@@ -53,7 +53,7 @@ export default function Home() {
       </div>
       <div className="row">
         <img src={image4}  />
-        <h5>Chail Palace</h5>
+        <h5>Nandadevi Estate, Binsar</h5>
         <p>The Palace Road, Chail, Himachal Pradesh</p>
         <p>6 Bed</p>
         
